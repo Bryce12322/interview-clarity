@@ -1,0 +1,4 @@
+interface:
+  display_name: "面试表达检查"
+  short_description: "先让面试官看懂产品与项目，再呈现思考、个人贡献和产品及AI能力。"
+  default_prompt: "请用 $interview-clarity 检查我的面试文稿：先找产品画面、理解顺序和职责边界上的障碍，再检查思考与贡献，给出必要的局部改写，并把适合追问展开的产品设计和AI细节后置。"
